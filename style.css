@@ -1,0 +1,94 @@
+
+html,
+body {
+  min-height: 100%
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+svg {
+  background-color: rgb(253, 253, 253);
+}
+
+#canvas {
+  min-width: 1000px;
+  min-height: 700px;
+  transform: rotate(180deg);
+  transform: scaleY(-1);
+}
+.county:hover {
+  fill: #f0efef
+}
+
+g {
+  color: #94ebfe
+}
+
+#tooltip {
+  visibility: hidden;
+  height: auto;
+  width: auto;
+  margin-top: 1px;
+  color: #fcd191;
+  font-size: 25px;
+  margin-bottom: 10px;
+  white-space: pre-line;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+#legend {
+  color: rgb(118, 120, 130);
+  font-size: 18px;
+  text-align: center;
+  min-height: 150px;
+  max-width: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+
+#title {
+  font-size: 28px;
+  color: #5e5d5c;
+  font-family: "Lucida Console", Courier, monospace;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+#description  {
+  text-decoration: none;
+  color: #6c6a6a;
+  text-align: justify;
+ 
+  padding: 10px;
+}
+
+#container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+#rightSide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 50px;
+}
+#description a {
+  color: #c9e590;
+  /* Default color */
+  transition: color 0.3s;
+  /* Add a smooth transition */
+}
+
+#description a:hover {
+  color:#fcd191 ;
+  /* Color change on hover */
+}

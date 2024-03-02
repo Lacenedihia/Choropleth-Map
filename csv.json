@@ -1,0 +1,526 @@
+[
+  {
+    "city": "Algiers",
+    "country": "Algeria",
+    "fips": 16,
+    "admin_name": "Alger",
+    "capital": "primary",
+    "population": 2947461,
+    "rate": 8.12
+  },
+  {
+    "city": "Oran",
+    "country": "Algeria",
+    "fips": 31,
+    "admin_name": "Oran",
+    "capital": "admin",
+    "population": 1584607,
+    "rate": 4.37
+  },
+  {
+    "city": "Constantine",
+    "country": "Algeria",
+    "fips": 25,
+    "admin_name": "Constantine",
+    "capital": "admin",
+    "population": 943112,
+    "rate": 2.60
+  },
+  {
+    "city": "Blida",
+    "country": "Algeria",
+    "fips": 9,
+    "admin_name": "Blida",
+    "capital": "admin",
+    "population": 1009892,
+    "rate": 2.78
+  },
+  {
+    "city": "Batna",
+    "country": "Algeria",
+    "fips": 5,
+    "admin_name": "Batna",
+    "capital": "admin",
+    "population": 1128030,
+    "rate": 3.11
+  },
+  {
+    "city": "Sétif",
+    "country": "Algeria",
+    "fips": 19,
+    "admin_name": "Sétif",
+    "capital": "admin",
+    "population": 1496150,
+    "rate": 4.12
+  },
+  {
+    "city": "Djelfa",
+    "country": "Algeria",
+    "fips": 17,
+    "admin_name": "Djelfa",
+    "capital": "admin",
+    "population": 1223223,
+    "rate": 3.37
+  },
+  {
+    "city": "Annaba",
+    "country": "Algeria",
+    "fips": 23,
+    "admin_name": "Annaba",
+    "capital": "admin",
+    "population": 640050,
+    "rate": 1.76
+  },
+  {
+    "city": "Sidi Bel Abbès",
+    "country": "Algeria",
+    "fips": 22,
+    "admin_name": "Sidi Bel Abbès",
+    "capital": "admin",
+    "population": 603369,
+    "rate": 1.66
+  },
+  {
+    "city": "Biskra",
+    "country": "Algeria",
+    "fips": 7,
+    "admin_name": "Biskra",
+    "capital": "admin",
+    "population": 730262,
+    "rate": 2.01
+  },
+  {
+    "city": "Tébessa",
+    "country": "Algeria",
+    "fips": 12,
+    "admin_name": "Tébessa",
+    "capital": "admin",
+    "population": 657227,
+    "rate":1.81
+  },
+  {
+    "city": "Tiaret",
+    "country": "Algeria",
+    "fips": 14,
+    "admin_name": "Tiaret",
+    "capital": "admin",
+    "population": 842060,
+    "rate": 2.32
+  },
+  {
+    "city": "Bejaïa",
+    "country": "Algeria",
+    "fips": 6,
+    "admin_name": "Bejaïa",
+    "capital": "admin",
+    "population": 915835,
+    "rate": 2.52
+  },
+  {
+    "city": "Tlemcen",
+    "country": "Algeria",
+    "fips": 13,
+    "admin_name": "Tlemcen",
+    "capital": "admin",
+    "population": 945525,
+    "rate": 2.61
+  },
+  {
+    "city": "Bordj Bou Arreridj",
+    "country": "Algeria",
+    "fips": 34,
+    "admin_name": "Bordj Bou Arréridj",
+    "capital": "admin",
+    "population": 634396,
+    "rate": 1.75
+  },
+  {
+    "city": "Béchar",
+    "country": "Algeria",
+    "fips": 8,
+    "admin_name": "Béchar",
+    "capital": "admin",
+    "population": 274866,
+    "rate": 0.76
+  },
+  {
+    "city": "Skikda",
+    "country": "Algeria",
+    "fips": 21,
+    "admin_name": "Skikda",
+    "capital": "admin",
+    "population": 904195,
+    "rate": 2.49
+  },
+  {
+    "city": "Souk Ahras",
+    "country": "Algeria",
+    "fips": 41,
+    "admin_name": "Souk Ahras",
+    "capital": "admin",
+    "population": 440299,
+    "rate": 1.21
+  },
+  {
+    "city": "Chlef",
+    "country": "Algeria",
+    "fips": 2,
+    "admin_name": "Chlef",
+    "capital": "admin",
+    "population": 1013718,
+    "rate": 2.79
+  },
+  {
+    "city": "M’Sila",
+    "country": "Algeria",
+    "fips": 28,
+    "admin_name": "M’sila",
+    "capital": "admin",
+    "population": 991846,
+    "rate": 2.73
+  },
+  {
+    "city": "Mostaganem",
+    "country": "Algeria",
+    "fips": 27,
+    "admin_name": "Mostaganem",
+    "capital": "admin",
+    "population": 746947,
+    "rate": 2.06
+  },
+  {
+    "city": "Médéa",
+    "country": "Algeria",
+    "fips": 26,
+    "admin_name": "Médéa",
+    "capital": "admin",
+    "population": 830943,
+    "rate": 2.29
+  },
+  {
+    "city": "Tizi Ouzou",
+    "country": "Algeria",
+    "fips": 15,
+    "admin_name": "Tizi Ouzou",
+    "capital": "admin",
+    "population": 1119646,
+    "rate": 3.09
+  },
+  {
+    "city": "El Oued",
+    "country": "Algeria",
+    "fips": 39,
+    "admin_name": "El Oued",
+    "capital": "admin",
+    "population": 673934,
+    "rate": 1.86
+  },
+  {
+    "city": "Laghouat",
+    "country": "Algeria",
+    "fips": 3,
+    "admin_name": "Laghouat",
+    "capital": "admin",
+    "population": 477328,
+    "rate": 1.32
+  },
+  {
+    "city": "Ouargla",
+    "country": "Algeria",
+    "fips": 30,
+    "admin_name": "Ouargla",
+    "capital": "admin",
+    "population": 552539,
+    "rate": 1.52
+  },
+  {
+    "city": "Jijel",
+    "country": "Algeria",
+    "fips": 18,
+    "admin_name": "Jijel",
+    "capital": "admin",
+    "population": 634412,
+    "rate": 1.75
+  },
+  {
+    "city": "Relizane",
+    "country": "Algeria",
+    "fips": 48,
+    "admin_name": "Relizane",
+    "capital": "admin",
+    "population": 733060,
+    "rate": 2.02
+  },
+  {
+    "city": "Saïda",
+    "country": "Algeria",
+    "fips": 20,
+    "admin_name": "Saïda",
+    "capital": "admin",
+    "population": 328685,
+    "rate": 0.91
+  },
+  {
+    "city": "Guelma",
+    "country": "Algeria",
+    "fips": 24,
+    "admin_name": "Guelma",
+    "capital": "admin",
+    "population": 482261,
+    "rate":1.33
+  },
+  {
+    "city": "Ghardaïa",
+    "country": "Algeria",
+    "fips": 47,
+    "admin_name": "Ghardaïa",
+    "capital": "admin",
+    "population": 375988,
+    "rate": 1.04
+  },
+  {
+    "city": "Mascara",
+    "country": "Algeria",
+    "fips": 29,
+    "admin_name": "Mascara",
+    "capital": "admin",
+    "population": 780959,
+    "rate": 2.15
+  },
+  {
+    "city": "Khenchela",
+    "country": "Algeria",
+    "fips": 40,
+    "admin_name": "Khenchela",
+    "capital": "admin",
+    "population": 384268,
+    "rate":1.06
+  },
+  {
+    "city": "Oum el Bouaghi",
+    "country": "Algeria",
+    "fips": 4,
+    "admin_name": "Oum el Bouaghi",
+    "capital": "admin",
+    "population": 644364,
+    "rate": 1.78
+  },
+  {
+    "city": "El Bayadh",
+    "country": "Algeria",
+    "fips": 32,
+    "admin_name": "El Bayadh",
+    "capital": "admin",
+    "population": 262187,
+    "rate": 0.72
+  },
+  {
+    "city": "Tamanrasset",
+    "country": "Algeria",
+    "fips": 11,
+    "admin_name": "Tamanrasset",
+    "capital": "admin",
+    "population": 198691,
+    "rate": 0.55
+  },
+  {
+    "city": "Aïn Temouchent",
+    "country": "Algeria",
+    "fips": 46,
+    "admin_name": "Aïn Temouchent",
+    "capital": "admin",
+    "population": 384565,
+    "rate": 1.06
+  },
+  {
+    "city": "Tissemsilt",
+    "country": "Algeria",
+    "fips": 38,
+    "admin_name": "Tissemsilt",
+    "capital": "admin",
+    "rate": 0.82,
+    "population": 296366
+    
+  },
+  {
+    "city": "Bouira",
+    "country": "Algeria",
+    "fips": 10,
+    "admin_name": "Bouira",
+    "capital": "admin",
+    "population": 694750,
+    "rate": 1.91
+  },
+  {
+    "city": "Adrar",
+    "country": "Algeria",
+    "fips": 1,
+    "admin_name": "Adrar",
+    "capital": "admin",
+    "population": 439700,
+    "rate": 1.21
+  },
+  {
+    "city": "Tindouf",
+    "country": "Algeria",
+    "fips": 37,
+    "admin_name": "Tindouf",
+    "capital": "admin",
+    "population": 159000,
+    "rate": 0.44
+  },
+  {
+    "city": "Boumerdes",
+    "country": "Algeria",
+    "fips": 35,
+    "admin_name": "Boumerdes",
+    "capital": "admin",
+    "population": 795019,
+    "rate": 2.19
+  },
+  {
+    "city": "El Menia",
+    "country": "Algeria",
+    "fips": 50,
+    "admin_name": "El Menia",
+    "capital": "admin",
+    "population": 57276,
+    "rate": 0.16
+  },
+  {
+    "city": "Touggourt",
+    "country": "Algeria",
+    "fips": 55,
+    "admin_name": "Touggourt",
+    "capital": "admin",
+    "population": 247221,
+    "rate": 0.68
+  },
+  {
+    "city": "Timimoun",
+    "country": "Algeria",
+    "fips": 54,
+    "admin_name": "Timimoun",
+    "capital": "admin",
+    "population": 122019,
+    "rate": 0.34
+  },
+  {
+    "city": "I-n-Salah",
+    "country": "Algeria",
+    "fips": 57,
+    "admin_name": "In Salah",
+    "capital": "admin",
+    "population": 50392,
+    "rate":0.14
+  },
+  {
+    "city": "El Tarf",
+    "country": "Algeria",
+    "fips": 36,
+    "admin_name": "El Tarf",
+    "capital": "admin",
+    "population": 411783,
+    "rate": 1.13
+  },
+  {
+    "city": "Tipaza",
+    "country": "Algeria",
+    "fips": 42,
+    "admin_name": "Tipaza",
+    "capital": "admin",
+    "population": 617661,
+    "rate": 1.70
+  },
+  {
+    "city": "Illizi",
+    "country": "Algeria",
+    "fips": 33,
+    "admin_name": "Illizi",
+    "capital": "admin",
+    "population": 54490,
+    "rate": 0.15
+  },
+  {
+    "city": "Bordj Mokhtar",
+    "country": "Algeria",
+    "fips": 52,
+    "admin_name": "Bordj Badji Mokhtar",
+    "capital": "admin",
+    "population": 634396,
+    "rate": 1.75
+  },
+  {
+    "city": "Naama",
+    "country": "Algeria",
+    "fips": 45,
+    "admin_name": "Naama",
+    "capital": "admin",
+    "population": 209470,
+    "rate": 0.58
+  },
+  {
+    "city": "Djanet",
+    "country": "Algeria",
+    "fips": 56,
+    "admin_name": "Djanet",
+    "capital": "admin",
+    "population": 17618,
+    "rate": 0.05
+  },
+  {
+    "city": "Beni Abbès",
+    "country": "Algeria",
+    "fips": 53,
+    "admin_name": "Béni Abbès",
+    "capital": "admin",
+    "population": 50163,
+    "rate": 0.14
+  },
+  {
+    "city": "In Guezzam",
+    "country": "Algeria",
+    "fips": 58,
+    "admin_name": "In Guezzam",
+    "capital": "admin",
+    "population": 11202,
+    "rate": 0.03
+  },
+  {
+    "city": "Aïn Defla",
+    "country": "Algeria",
+    "fips": 44,
+    "admin_name": "Aïn Defla",
+    "capital": "admin",
+    "population": 771890,
+    "rate": 2.13
+  },
+  {
+    "city": "Mila",
+    "country": "Algeria",
+    "fips": 43,
+    "admin_name": "Mila",
+    "capital": "admin",
+    "population": 768419,
+    "rate": 2.12
+  },
+  {
+    "city": "Ouled Djellal",
+    "country": "Algeria",
+    "fips": 51,
+    "admin_name": "Ouled Djellal",
+    "capital": "admin",
+    "population": 174219,
+    "rate": 0.48
+  },
+  {
+    "city": "El M'Ghair",
+    "country": "Algeria",
+    "fips": 49,
+    "admin_name": "El M'Ghair",
+    "capital": "admin",
+    "population": 162267,
+    "rate": 0.45
+  }
+  
+]
